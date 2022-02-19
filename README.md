@@ -27,7 +27,7 @@ Os dados das entidades citadas acimas são disponibilizadas em uma mesma requisi
 ## Tecnologias
 
 <ul>
-    <li><b>Spring Boot</b> É uma tecnologia Java open source, que tem por objetivo 
+    <li><b>Spring Boot:</b> É uma tecnologia Java open source, que tem por objetivo 
         facilitar os processos em aplicações Java, trazendo consigo mais agilidade e facilidade no processo de desenvolvimento.</li>
 </ul>
 
