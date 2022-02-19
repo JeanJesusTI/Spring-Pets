@@ -25,6 +25,7 @@ Os dados das entidades citadas acimas são disponibilizadas em uma mesma requisi
 <br/>
 
 ##Tecnologias
+<b>Spring Boot:</b>
 
-    •	<b>Spring Boot:</b> O Spring Boot é uma tecnologia Java open source, que tem por objetivo 
+    •	O Spring Boot é uma tecnologia Java open source, que tem por objetivo 
         facilitar os processos em aplicações Java, trazendo consigo mais agilidade e facilidade no processo de desenvolvimento.
