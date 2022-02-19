@@ -39,11 +39,10 @@ de alto nível e customizável para aplicações, a utilização deste framework
 diversas vantagens como por exemplo:
 </li>
     
-
-        <ul>
-            <li>Sistema de autorização e autenticação.</li>
-            <li>Intregração</li>
-            <li>Proteção contra ataques.</li>
-            <li>Facilidade de utilização.</li>
-        </ul>
+ <ul>
+   <li>Sistema de autorização e autenticação.</li>
+   <li>Intregração</li>
+   <li>Proteção contra ataques.</li>
+    <li>Facilidade de utilização.</li>
+ </ul>
 
