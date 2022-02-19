@@ -17,6 +17,6 @@ Os dados das entidades citadas acimas são disponibilizadas em uma mesma requisi
 
 Sendo assim, a implementação ficará desta forma:<br>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/31626353/154784284-4842cd32-ad4e-4a0e-963c-f8246dbd042b.png" /><br/>
+    <img src="https://user-images.githubusercontent.com/31626353/154784357-cf970ba6-daf1-4cdb-b518-313cfc4fc54b.png" /><br/>
     <em>Implementação das entidades</em>
 </p>
