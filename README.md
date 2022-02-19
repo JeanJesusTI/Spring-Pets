@@ -21,3 +21,6 @@ Os dados das entidades citadas acimas são disponibilizadas em uma mesma requisi
     •	flyway-core
     •	spring-boot-starter-data-jpa
     •	springfox-swagger2
+
+<br/>
+## Tecnologias
