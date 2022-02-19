@@ -102,6 +102,6 @@ Se tudo estiver correto, será apresentado a seguinte tela:
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/31626353/154786559-431c9bc2-fdca-450b-b0e8-e3079b4d7607.png" /><br/>
-    <em>Diagrama</em>
+    <em>CMD docker-composer</em>
 </p>
 
