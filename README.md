@@ -171,7 +171,7 @@ Após a configuração, seremos capazes de acessar todos os serviços disponibil
 <br/>
 <p align="center">
          <img src="https://user-images.githubusercontent.com/31626353/154787300-ca8d42e3-1752-48b0-a12c-d02ed562d400.png" /><br/>
-         <em>Configuração de Token</em>
+         <em>Criação de novo usuário</em>
     </p>    
 
 
