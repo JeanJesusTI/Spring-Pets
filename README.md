@@ -9,4 +9,5 @@ Os dados das entidades citadas acimas são disponibilizadas em uma mesma requisi
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/31626353/154784060-670b577a-a130-429f-890d-a7dba784e654.png" />
+  <figcaption>Diagrama</figcaption>
 </p>
