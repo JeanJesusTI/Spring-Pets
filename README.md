@@ -70,8 +70,9 @@ diversas vantagens como por exemplo:<br/>
 
 
 
-
-
+# Segurança
+<br/>
+Para segurança da aplicação, utilizaremos o Spring Security e o JsonWebToken; para controle de acesso à aplicação, utilizaremos o método de autenticação de usuários baseados em uma tabela criada no banco de dados através do Docker-composer e com o auxílio do Flyway para criação da mesma quando a aplicação for iniciada. Essa tabela tem por objetivo conter os registros dos usuários que poderão posteriormente registrar o token para realizar as requisições.
 
 
 
