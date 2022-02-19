@@ -181,7 +181,8 @@ Após isso poderemos acessar as URIs:
 <br/>
 
   <ul><br/>
-     <li>GET - http://localhost:8080/api/v1/pets.</li>
+    
+     <li>GET - http://localhost:8080/api/v1/pets </li>
      <li>GET - http://localhost:8080/api/v1/pets/{id_pet}</li>
     <li>POST - http://localhost:8080/api/v1/pets.</li>
      <li>PUT - http://localhost:8080/api/v1/pets/{id_pet}</li>
