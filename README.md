@@ -73,7 +73,12 @@ diversas vantagens como por exemplo:<br/>
 # Segurança
 <br/>
 Para segurança da aplicação, utilizaremos o Spring Security e o JsonWebToken; para controle de acesso à aplicação, utilizaremos o método de autenticação de usuários baseados em uma tabela criada no banco de dados através do Docker-composer e com o auxílio do Flyway para criação da mesma quando a aplicação for iniciada. Essa tabela tem por objetivo conter os registros dos usuários que poderão posteriormente registrar o token para realizar as requisições.
+<br/>
+<b>Obs:</b> A aplicação possui um usuário e senha padrão com role de admin, que permitirá o acesso as demais URIs (inclusive a uri de criação de novos usuários), sendo ele:<br/>
+<b>Login:</b> defaultUser<br/>
+<b>Password:</b> 123
 
+<br/>
 
 
 
