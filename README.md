@@ -92,8 +92,8 @@ Para segurança da aplicação, utilizaremos o Spring Security e o JsonWebToken;
 </ul>
 
 
+<p style="text-align: center;"><b> docker-compose up -d</b></p>
 
-<center><b> docker-compose up -d</b></center>
 
     
 
