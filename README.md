@@ -107,7 +107,7 @@ Se tudo estiver correto, será apresentado a seguinte tela:
 <br/>
 <br/>
 
-### Executando a Aplicação
+### Executando a Aplicação:
 
 <br/>
 
@@ -125,8 +125,11 @@ Se tudo estiver correto, será apresentado a seguinte tela:
 <br/>    
 
         
+### Acessando Aplicação:
+     
+        
 <ul>
-    <li><b>Acessando Aplicação: </b> Após iniciar a aplicação, podemos acessar o Swagger ou uma API-Cliente como PostMan, Insomnia e etc, para ter acesso aos principais serviços       da aplicação Porém a princípio, porém será necessário a autenticação dos usuário por meio do JWT</b</li>
+    <li> Após iniciar a aplicação, podemos acessar o Swagger ou uma API-Cliente como PostMan, Insomnia e etc, para ter acesso aos principais serviços       da aplicação Porém a princípio, porém será necessário a autenticação dos usuário por meio do JWT</b</li>
 </ul>
 <br/>
 <p align="center">
