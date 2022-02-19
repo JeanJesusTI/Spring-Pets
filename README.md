@@ -45,6 +45,33 @@ diversas vantagens como por exemplo:<br/>
  </ul>
 </li>
  </ul>
+ 
+<br/>
+<br/>
+
+
+<ul>
+ <li><b>FlyWay:</b> é uma ferramenta que traz mais organização aos scripts SQL que serão executados no banco de dados, capaz de realizar migrations para controles de versões; sua utilização traz algumas vantagens como:
+      <ul><br/>
+     <li>Automação das execuções dos scripts.</li>
+     <li>Sincronização do Banco de dados</li>
+     <li>Criação de um banco de dados do zero</li>
+      <li>Permite saber os scripts que foram executados ou não</li>
+ </ul>
+</li>
+ </ul>
+
+
+
+
+
+
+
+
+
+
+
+
     
 
 
