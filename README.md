@@ -6,6 +6,7 @@ link: https://petstore.swagger.io/v2/pet/findByStatus?status=available.
 Iremos realizar uma filtragem básica para trazermos apenas os dados relevantes da aplicação, com isso, aplicação terá 2 (duas) entidades, sendo elas: Pet e Category. 
 Os dados das entidades citadas acimas são disponibilizadas em uma mesma requisição, mas para fins de organização, iremos separar as informações utilizando a notação <b>@Embeded</b> do Spring para mapeá-las em classes diferentes.<br/><br/>
 
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/31626353/154783899-4dcb5207-bfb5-4241-a929-9f57512b66fd.png" />
+  <img src="https://user-images.githubusercontent.com/31626353/154784060-670b577a-a130-429f-890d-a7dba784e654.png" />
 </p>
