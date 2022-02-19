@@ -104,4 +104,13 @@ Se tudo estiver correto, será apresentado a seguinte tela:
     <img src="https://user-images.githubusercontent.com/31626353/154786559-431c9bc2-fdca-450b-b0e8-e3079b4d7607.png" /><br/>
     <em>CMD docker-composer</em>
 </p>
+<br/>
+<br/>
+### Executando a Aplicação
+
+<br/>
+
+<ul>
+    <li><b>Spring Application: </b> Após executar o passo acima, podemos iniciar A aplicação e o flyway irá criar a tabela necessária para autenticação dos usuários. Faremos isso executando o arquivo <b>XmlApplication</b</li>
+</ul>
 
