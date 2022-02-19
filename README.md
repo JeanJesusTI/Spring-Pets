@@ -114,4 +114,14 @@ Se tudo estiver correto, será apresentado a seguinte tela:
 <ul>
     <li><b>Spring Application: </b> Após executar o passo acima, podemos iniciar A aplicação e o flyway irá criar a tabela necessária para autenticação dos usuários. Faremos isso executando o arquivo <b>XmlApplication</b</li>
 </ul>
+<br/>
+        
+   <p align="center">
+         <img src="https://user-images.githubusercontent.com/31626353/154786826-0a06c24e-a2b2-4c9e-848f-bcf33cbbbb0f.png" /><br/>
+         <em>Configurando Aplicação</em>
+    </p>     
 
+        
+        
+        
+        
