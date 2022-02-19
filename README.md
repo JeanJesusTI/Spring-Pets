@@ -23,7 +23,6 @@ Sendo assim, a implementação ficará desta forma:<br>
 </p>
 
 ## Principais Dependências:
-Para nossa aplicação, iremos utilizar algumas depenências, sendo as principais:<br/>
     •	spring-boot-starter-security
     •	io.jsonwebtoken
     •	flyway-core
