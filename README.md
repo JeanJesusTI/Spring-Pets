@@ -129,7 +129,7 @@ Se tudo estiver correto, será apresentado a seguinte tela:
      
         
 <ul>
-    <li> Após iniciar a aplicação, podemos acessar o Swagger ou uma API-Cliente como PostMan, Insomnia e etc, para ter acesso aos principais serviços       da aplicação Porém a princípio, porém será necessário a autenticação dos usuário por meio do JWT</b</li>
+    <li> Após iniciar a aplicação, podemos acessar o Swagger ou uma API-Cliente como PostMan, Insomnia e etc, para ter acesso aos principais serviços da aplicação Porém a princípio, porém será necessário a autenticação dos usuário por meio do JWT</b></li>
 </ul>
 <br/>
 <p align="center">
@@ -150,7 +150,7 @@ Os usuários poderão ser registrados apartir da URI: http://localhost:8080/api/
 
 <p align="center">
          <img src="https://user-images.githubusercontent.com/31626353/154787039-b526059f-68bb-446b-8227-5342ba702093.png" /><br/>
-         <em>Swagger</em>
+         <em>PostMan</em>
     </p>    
         
         
