@@ -11,3 +11,12 @@ Os dados das entidades citadas acimas são disponibilizadas em uma mesma requisi
     <img src="https://user-images.githubusercontent.com/31626353/154784060-670b577a-a130-429f-890d-a7dba784e654.png" /><br/>
     <em>Diagrama</em>
 </p>
+
+<br/>
+<br/>
+
+Sendo assim, a implementação ficará desta forma:<br>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/31626353/154784284-4842cd32-ad4e-4a0e-963c-f8246dbd042b.png" /><br/>
+    <em>Implementação das entidades</em>
+</p>
