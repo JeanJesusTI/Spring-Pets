@@ -161,7 +161,18 @@ Após ter gerado o Token, devemos configura-lo na API-Cliente desejada, neste ca
 <br/>
 <p align="center">
          <img src="https://user-images.githubusercontent.com/31626353/154787235-cefd2a58-0890-462f-b223-281f0ecd569a.png" /><br/>
-         <em>Geração de Token</em>
+         <em>Configuração de Token</em>
     </p>    
 
 <br/>        
+<br/>
+
+Após a configuração, seremos capazes de acessar todos os serviços disponibilizados pela API, baseados na permissão do usuário, como exemplo, iremos fazer a inserção de um novo usuário, após isso, poderá ser gerado o token do mesmo conforme passo anterior, bastando passar os parâmetros no novo usuário:
+<br/>
+<p align="center">
+         <img src="https://user-images.githubusercontent.com/31626353/154787300-ca8d42e3-1752-48b0-a12c-d02ed562d400.png" /><br/>
+         <em>Configuração de Token</em>
+    </p>    
+
+
+
