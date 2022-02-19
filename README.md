@@ -143,14 +143,14 @@ Se tudo estiver correto, será apresentado a seguinte tela:
 Porém, iremos utilizar o PostMan para realizar as requisições, para isso iremos utilizar as credenciais default da aplicação, sendo elas: <br/>
 <b>Login:</b> defaultUser<br/>
 <b>Password:</b> 123 <br/>
-Os usuários poderão ser registrados apartir da URI: http://localhost:8080/api/v1/users
-
+Devemos primeiramente se autenticar com o usuário padrão para ter acesso aos demais serviços da aplicação, para isso, iremos realizar uma requisição POST na URI: https://localhost:8080/api/v1/user/auth passando o usuário informado acima para geração do Token (por padrão, o token tem validade de 30 minutos), podemos ver o exemplo abaixo:
 <br/>
 <br/>
 
 <p align="center">
-         <img src="https://user-images.githubusercontent.com/31626353/154787039-b526059f-68bb-446b-8227-5342ba702093.png" /><br/>
-         <em>PostMan</em>
+         <img src="https://user-images.githubusercontent.com/31626353/154787105-1f86e3c4-29c8-4fdc-b6a2-b1d2034a8925.png" /><br/>
+         <em>Geração de Token</em>
     </p>    
         
+
         
