@@ -82,7 +82,10 @@ Para segurança da aplicação, utilizaremos o Spring Security e o JsonWebToken;
 <br/>
 
 <br/>
+
+
 # Inicializando Aplicação
+
 
 <ul>
     <li><b>Docker: </b> Para subirmos a aplicação, iremos precisar que o Docker esteja instalado, para podermos executar o script yml. Para isso, deveremos ir a diretório da aplicação “read-xml”, e executar o seguinte comando:</li>
