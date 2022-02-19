@@ -27,14 +27,14 @@ Os dados das entidades citadas acimas são disponibilizadas em uma mesma requisi
 ## Tecnologias
 
 <ul>
-    <li><b>Spring Boot</b> é uma tecnologia Java open source, que tem por objetivo 
+    <li><b>Spring Boot</b> É uma tecnologia Java open source, que tem por objetivo 
         facilitar os processos em aplicações Java, trazendo consigo mais agilidade e facilidade no processo de desenvolvimento.</li>
 </ul>
 
 <br/>
 
 <ul>
- <li><b>Spring Security:</b> é um framework que emprega serviços de autenticação e autorização 
+ <li><b>Spring Security:</b> É um framework que emprega serviços de autenticação e autorização 
 de alto nível e customizável para aplicações, a utilização deste framework pode trazer
 diversas vantagens como por exemplo:<br/>
       <ul><br/>
@@ -51,7 +51,7 @@ diversas vantagens como por exemplo:<br/>
 
 
 <ul>
- <li><b>FlyWay:</b> é uma ferramenta que traz mais organização aos scripts SQL que serão executados no banco de dados, capaz de realizar migrations para controles de versões; sua utilização traz algumas vantagens como:
+ <li><b>FlyWay:</b> É uma ferramenta que traz mais organização aos scripts SQL que serão executados no banco de dados, capaz de realizar migrations para controles de versões; sua utilização traz algumas vantagens como:
       <ul><br/>
      <li>Automação das execuções dos scripts.</li>
      <li>Sincronização do Banco de dados</li>
@@ -65,7 +65,7 @@ diversas vantagens como por exemplo:<br/>
 <br/>
 
 <ul>
-    <li><b>JWT (Json Web Token)</b> é um método <b>RCT 7519</b> padrão da indústria para realizar autenticação entre duas partes por meio de um token assinado que autentica uma requisição web. Esse token é um código em Base64 que armazena objetos JSON com os dados que permitem a autenticação da requisição.</li>
+    <li><b>JWT (Json Web Token): </b> É um método <b>RCT 7519</b> padrão da indústria para realizar autenticação entre duas partes por meio de um token assinado que autentica uma requisição web. Esse token é um código em Base64 que armazena objetos JSON com os dados que permitem a autenticação da requisição.</li>
 </ul>
 
 
