@@ -141,8 +141,10 @@ Se tudo estiver correto, será apresentado a seguinte tela:
 </br>
 
 Porém, iremos utilizar o PostMan para realizar as requisições, para isso iremos utilizar as credenciais default da aplicação, sendo elas: <br/>
+<br/>
 <b>Login:</b> defaultUser<br/>
 <b>Password:</b> 123 <br/>
+<br/>
 Devemos primeiramente se autenticar com o usuário padrão para ter acesso aos demais serviços da aplicação, para isso, iremos realizar uma requisição POST na URI: https://localhost:8080/api/v1/user/auth passando o usuário informado acima para geração do Token (por padrão, o token tem validade de 30 minutos), podemos ver o exemplo abaixo:
 <br/>
 <br/>
@@ -152,5 +154,14 @@ Devemos primeiramente se autenticar com o usuário padrão para ter acesso aos d
          <em>Geração de Token</em>
     </p>    
         
+<br/>
+<br/>
+Após ter gerado o Token, devemos configura-lo na API-Cliente desejada, neste caso, faremos a inserção do token no Header do postman conforme imagem abaixo: 
+<br>
+<br/>
+<p align="center">
+         <img src="https://user-images.githubusercontent.com/31626353/154787235-cefd2a58-0890-462f-b223-281f0ecd569a.png" /><br/>
+         <em>Geração de Token</em>
+    </p>    
 
-        
+<br/>        
