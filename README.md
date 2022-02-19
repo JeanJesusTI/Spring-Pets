@@ -128,7 +128,7 @@ Se tudo estiver correto, será apresentado a seguinte tela:
         
 ### Acessando Aplicação:
      
-        
+</b>        
 <ul>
     <li> Após iniciar a aplicação, podemos acessar o <a href="http://localhost:8080/swagger-ui.html#/" target="_blank">Swagger</a> ou uma API-Cliente como: PostMan, Insomnia dentre outros para ter acesso aos principais serviços da aplicação. Porém a princípio, porém será necessário a autenticação dos usuário por meio do JWT</b></li>
 </ul>
