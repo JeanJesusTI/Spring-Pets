@@ -137,6 +137,20 @@ Se tudo estiver correto, será apresentado a seguinte tela:
          <em>Swagger</em>
     </p>    
         
+<br/>
+</br>
 
+Porém, iremos utilizar o PostMan para realizar as requisições, para isso iremos utilizar as credenciais default da aplicação, sendo elas: <br/>
+<b>Login:</b> defaultUser<br/>
+<b>Password:</b> 123 <br/>
+Os usuários poderão ser registrados apartir da URI: http://localhost:8080/api/v1/users
+
+<br/>
+<br/>
+
+<p align="center">
+         <img src="https://user-images.githubusercontent.com/31626353/154787039-b526059f-68bb-446b-8227-5342ba702093.png" /><br/>
+         <em>Swagger</em>
+    </p>    
         
         
