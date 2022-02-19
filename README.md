@@ -19,5 +19,5 @@ Os dados das entidades citadas acimas são disponibilizadas em uma mesma requisi
 Sendo assim, a implementação ficará desta forma:<br>
 <p align="center">
     <img src="https://user-images.githubusercontent.com/31626353/154784388-d0bbe7af-96d0-4c9f-bbeb-b6e3c7852bf0.png" /><br/>
-    <em>Class Pet                                         Class Category</em>
+    <em>Implementação das entidades Pet e Category</em>
 </p>
