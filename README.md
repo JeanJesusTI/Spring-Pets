@@ -36,7 +36,7 @@ Os dados das entidades citadas acimas são disponibilizadas em uma mesma requisi
 <ul>
  <li><b>Spring Security:</b> é um framework que emprega serviços de autenticação e autorização 
 de alto nível e customizável para aplicações, a utilização deste framework pode trazer
-diversas vantagens como por exemplo:
+diversas vantagens como por exemplo:<br/>
       <ul>
      <li>Sistema de autorização e autenticação.</li>
      <li>Intregração</li>
