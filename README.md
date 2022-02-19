@@ -62,7 +62,7 @@ diversas vantagens como por exemplo:<br/>
  </ul>
 
 <br/>
-<br/>
+
 
 <ul>
     <li><b>JWT (Json Web Token): </b> É um método <b>RCT 7519</b> padrão da indústria para realizar autenticação entre duas partes por meio de um token assinado que autentica uma requisição web. Esse token é um código em Base64 que armazena objetos JSON com os dados que permitem a autenticação da requisição.</li>
