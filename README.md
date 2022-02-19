@@ -80,8 +80,9 @@ Para segurança da aplicação, utilizaremos o Spring Security e o JsonWebToken;
 <b>Password:</b> 123
 
 <br/>
-
 <br/>
+
+
 
 
 # Inicializando Aplicação
@@ -174,5 +175,18 @@ Após a configuração, seremos capazes de acessar todos os serviços disponibil
          <em>Criação de novo usuário</em>
     </p>    
 
+<br/>
+<br/>
+Após isso poderemos acessar as URIs:
+<br/>
 
-
+  <ul><br/>
+     <li>GET - http://localhost:8080/api/v1/pets.</li>
+     <li>GET - http://localhost:8080/api/v1/pets/{id_pet}</li>
+    <li>POST - http://localhost:8080/api/v1/pets.</li>
+     <li>PUT - http://localhost:8080/api/v1/pets/{id_pet}</li>
+    <li>DELETE - http://localhost:8080/api/v1/pets/{id_pet}</li>
+    <br/>
+      <li>POST - http://localhost:8080/api/v1/users</li>
+    <li>POST - http://localhost:8080/api/v1/users/auth</li>
+ </ul>
