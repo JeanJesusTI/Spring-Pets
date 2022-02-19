@@ -10,3 +10,6 @@ Os dados das entidades citadas acimas são disponibilizadas em uma mesma requisi
 </p>
 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/31626353/154783899-4dcb5207-bfb5-4241-a929-9f57512b66fd.png" />
+</p>
