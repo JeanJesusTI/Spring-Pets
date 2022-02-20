@@ -179,23 +179,8 @@ Após a configuração, seremos capazes de acessar todos os serviços disponibil
 <br/>
 Após isso poderemos acessar as URIs:
 <br/>
+<br/>
 
-
-<ul>
-       
-     <li>GET - http://localhost:8080/api/v1/pets </li>
-     <li>GET - http://localhost:8080/api/v1/pets/{id_pet}</li>
-     <li>POST - http://localhost:8080/api/v1/pets.</li>
-     <li>PUT - http://localhost:8080/api/v1/pets/{id_pet}</li>
-     <li>DELETE - http://localhost:8080/api/v1/pets/{id_pet}</li>
-     <li>POST - http://localhost:8080/api/v1/users</li>
-    <li>POST - http://localhost:8080/api/v1/users/auth</li>
- </ul>
- 
- 
- 
- 
- 
  
    <ul>
      <li>GET - http://localhost:8080/api/v1/pets </li>
